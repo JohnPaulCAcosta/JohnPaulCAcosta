@@ -1,7 +1,7 @@
 # Howdy! 👋
 # I am a sophomore studying Statistics at Texas A&M University
 # I have chosen to minor in Computer Science and Mathematics
-# I post my personal projects here ⛄
+# I post my projects here ⛄
 
 <!--
 **JohnPaulCAcosta/JohnPaulCAcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
