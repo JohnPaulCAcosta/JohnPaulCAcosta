@@ -1,5 +1,5 @@
 # Howdy! 👋
-# I am a junior studying Statistics at Texas A&M University
+# I am a senior studying Statistics at Texas A&M University
 # I have chosen to minor in Computer Science and Mathematics
 
 <!--
